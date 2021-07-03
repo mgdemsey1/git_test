@@ -1,1 +1,1 @@
-ipsum lorem repositoreum
+This is my first git project
